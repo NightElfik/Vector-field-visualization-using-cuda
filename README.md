@@ -8,7 +8,7 @@ The project page contains more than 100 images and figures and commented code sn
 
 **Author**: Marek Fiser &lt; code@marekfiser.cz &gt;
 
-**Project page**: http://www.marekfiser.com/Projects/Vector-field-visualization-on-GPU-using-CUDA
+**Project page**: http://www.marekfiser.com/Projects/Real-time-visualization-of-3D-vector-field-with-CUDA
 
 
 **License**: Public domain, see LICENSE.txt for details.
